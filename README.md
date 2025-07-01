@@ -64,7 +64,7 @@ https://endtoendchatbotpy.streamlit.app/
 ---
 
 ## 📸 Screenshots
-![Screenshot (307)](https://github.com/user-attachments/assets/885d99a3-23d4-462e-ba10-85cb02abab3a)
+![Screenshot (308)](https://github.com/user-attachments/assets/85d0d102-000b-483a-b94b-211b56600f18)
 
 ---
 ## 📄 License
